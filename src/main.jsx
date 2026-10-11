@@ -236,7 +236,7 @@ function UnifiedFooter({ navigateTo }) {
       >
         <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="footer-brand-logo" />
         <span className="brand-copy">
-          <strong>UNIVELORIA<sup>®</sup></strong>
+          <strong><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><sup>®</sup></strong>
           <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
         </span>
       </a>
@@ -598,7 +598,7 @@ function App() {
               >
                 <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="brand-logo" />
                 <span className="brand-text">
-                  <span className="brand-name">UNIVELORIA<span className="reg">®</span></span>
+                  <span className="brand-name"><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><span className="reg">®</span></span>
                   <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
                 </span>
               </a>
@@ -740,7 +740,7 @@ function App() {
             >
               <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="brand-logo" />
               <span className="brand-text">
-                <span className="brand-name">UNIVELORIA<span className="reg">®</span></span>
+                <span className="brand-name"><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><span className="reg">®</span></span>
                 <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
               </span>
             </a>
@@ -868,7 +868,7 @@ function App() {
             >
               <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="brand-logo" />
               <span className="brand-text">
-                <span className="brand-name">UNIVELORIA<span className="reg">®</span></span>
+                <span className="brand-name"><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><span className="reg">®</span></span>
                 <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
               </span>
             </a>
@@ -1116,7 +1116,7 @@ function App() {
             >
               <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="brand-logo" />
               <span className="brand-text">
-                <span className="brand-name">UNIVELORIA<span className="reg">®</span></span>
+                <span className="brand-name"><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><span className="reg">®</span></span>
                 <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
               </span>
             </a>
@@ -1421,7 +1421,7 @@ function App() {
             >
               <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="brand-logo" />
               <span className="brand-text">
-                <span className="brand-name">UNIVELORIA<span className="reg">®</span></span>
+                <span className="brand-name"><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><span className="reg">®</span></span>
                 <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
               </span>
             </a>
@@ -1570,7 +1570,7 @@ function App() {
               >
                 <img src="/logo/logo.png" alt="UNIVELORIA Logo" className="brand-logo" />
                 <span className="brand-text">
-                  <span className="brand-name">UNIVELORIA<span className="reg">®</span></span>
+                  <span className="brand-name"><span className="brand-uni">Uni</span><span className="brand-veloria">Veloria</span><span className="reg">®</span></span>
                   <small>Thấu hiểu không gian, nâng tầm tổ ấm</small>
                 </span>
               </a>

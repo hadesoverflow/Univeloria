@@ -81,17 +81,24 @@
   justify-content: center;
 }
 .brand-name {
-  font-size: 26px;
-  font-weight: 800;
-  letter-spacing: -0.04em;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   line-height: 1.05;
-  color: var(--ink);
+}
+.brand-uni {
+  color: #203852;
+}
+.brand-veloria {
+  color: #9d733b;
 }
 .brand-name .reg {
-  font-size: 0.42em;
+  font-size: 0.45em;
   vertical-align: top;
   margin-left: 2px;
   font-weight: 700;
+  color: #9d733b;
 }
 .brand-text small {
   display: block;
@@ -4592,9 +4599,10 @@
 .univeloria-unified-footer .brand-copy strong,
 .contact-page-view .contact-footer .brand-copy strong,
 .about-page-view .about-footer .brand-copy strong {
-  font-size: 16px;
-  font-weight: 800;
-  letter-spacing: -0.03em;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
   color: #061116;
   line-height: 1.1;
 }
@@ -4602,9 +4610,11 @@
 .univeloria-unified-footer .brand-copy strong sup,
 .contact-page-view .contact-footer .brand-copy strong sup,
 .about-page-view .about-footer .brand-copy strong sup {
-  font-size: 0.5em;
+  font-size: 0.55em;
   vertical-align: top;
   margin-left: 2px;
+  color: #9d733b;
+  font-family: 'Manrope', sans-serif;
 }
 
 .univeloria-unified-footer .brand-copy small,
